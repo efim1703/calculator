@@ -2,4 +2,4 @@
 
 ## Калькулятор для сайта-диллера автомобилей
 
-https://github.com/efim1703/calculator
+https://efim1703.github.io/calculator/
